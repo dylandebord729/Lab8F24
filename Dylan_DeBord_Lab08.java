@@ -11,7 +11,6 @@ package dgdebordpstcc.dylan_debord_lab08;
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
-import java.util.Comparator;
 public class Dylan_DeBord_Lab08 {
 
     public static void main(String[] args) {
